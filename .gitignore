@@ -1,0 +1,9 @@
+# Dist
+/dist
+
+# Sandbox
+/.cabal-sandbox
+
+cabal.sandbox.config
+ChangeLog.md
+
